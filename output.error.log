@@ -1,0 +1,600 @@
+[ERROR] 2018-08-27 16:33:07.547 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:07.547 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:07.548 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:07.548 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.113 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.113 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.114 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.114 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.217 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.217 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.217 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.217 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.257 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.257 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.258 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.258 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.318 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.318 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.319 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.319 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.367 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.367 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.368 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.368 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.416 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.416 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.417 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.417 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.471 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.471 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.522 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.522 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.525 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.525 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.525 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:33:08.525 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:38.933 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:38.933 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:38.934 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:38.934 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.252 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.252 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.253 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.253 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.373 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.373 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.373 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.373 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.417 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.417 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.418 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.418 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.496 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.496 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.497 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.497 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.553 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.553 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.554 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.554 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.586 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.586 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.587 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.587 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.627 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.627 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.686 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.686 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.688 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.688 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.688 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:35:39.688 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.324 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.324 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.325 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.325 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.658 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.658 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.659 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.659 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.795 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.795 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.796 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.796 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.843 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.843 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.844 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.844 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.904 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.904 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.904 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.904 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.943 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.943 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.943 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.943 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.974 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.974 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.974 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:18.974 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:19.018 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:19.018 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:19.069 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:19.069 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:19.072 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:19.072 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:19.073 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:37:19.073 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:47:31.926 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:47:31.926 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:47:31.965 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-27 16:47:31.965 [main] [com.alibaba.druid.pool.DruidAbstractDataSource]681 - minEvictableIdleTimeMillis should be greater than 30000 
+[ERROR] 2018-08-28 17:54:07.381 [main] [org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter]42 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The dependencies of some of the beans in the application context form a cycle:
+
+   userController (field private com.gwg.shiro.web.service.UserService com.gwg.shiro.web.controller.UserController.userService)
+      ↓
+   userServiceImpl (field private com.gwg.shiro.web.dao.UserDao com.gwg.shiro.web.service.impl.UserServiceImpl.userDao)
+      ↓
+   userDaoImpl (field private com.gwg.shiro.web.mapper.UserMapper com.gwg.shiro.web.dao.impl.UserDaoImpl.userMapper)
+      ↓
+   userMapper defined in file [E:\shiro_workspace\springboot-multipleDataSource\target\classes\com\gwg\shiro\web\mapper\UserMapper.class]
+      ↓
+   sqlSessionFactory defined in class path resource [org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.class]
+┌─────┐
+|  dynamicDataSource defined in class path resource [com/gwg/shiro/web/config/jdbc/DataSourceConfig.class]
+↑     ↓
+|  dataSourceSlave defined in class path resource [com/gwg/shiro/web/config/jdbc/DataSourceConfig.class]
+↑     ↓
+|  dataSourceInitializer
+└─────┘
+
+ 
+[ERROR] 2018-08-28 17:54:07.381 [main] [org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter]42 - 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+The dependencies of some of the beans in the application context form a cycle:
+
+   userController (field private com.gwg.shiro.web.service.UserService com.gwg.shiro.web.controller.UserController.userService)
+      ↓
+   userServiceImpl (field private com.gwg.shiro.web.dao.UserDao com.gwg.shiro.web.service.impl.UserServiceImpl.userDao)
+      ↓
+   userDaoImpl (field private com.gwg.shiro.web.mapper.UserMapper com.gwg.shiro.web.dao.impl.UserDaoImpl.userMapper)
+      ↓
+   userMapper defined in file [E:\shiro_workspace\springboot-multipleDataSource\target\classes\com\gwg\shiro\web\mapper\UserMapper.class]
+      ↓
+   sqlSessionFactory defined in class path resource [org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.class]
+┌─────┐
+|  dynamicDataSource defined in class path resource [com/gwg/shiro/web/config/jdbc/DataSourceConfig.class]
+↑     ↓
+|  dataSourceSlave defined in class path resource [com/gwg/shiro/web/config/jdbc/DataSourceConfig.class]
+↑     ↓
+|  dataSourceInitializer
+└─────┘
+
+ 
+[ERROR] 2018-08-30 14:33:35.318 [http-nio-8080-exec-1] [org.apache.juli.logging.DirectJDKLog]181 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.dao.DuplicateKeyException: 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '333' for key 'unique_user_id'
+### The error may involve com.gwg.shiro.web.mapper.UserMapper.insertSelective-Inline
+### The error occurred while setting parameters
+### SQL: insert into tbl_user      ( user_id,                       username )       values ( ?,                       ? )
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '333' for key 'unique_user_id'
+; SQL []; Duplicate entry '333' for key 'unique_user_id'; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '333' for key 'unique_user_id'] with root cause 
+com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '333' for key 'unique_user_id'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+	at com.mysql.jdbc.Util.getInstance(Util.java:408)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:936)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3976)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3912)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2530)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2683)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2486)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1858)
+	at com.mysql.jdbc.PreparedStatement.execute(PreparedStatement.java:1197)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.apache.tomcat.jdbc.pool.StatementFacade$StatementProxy.invoke(StatementFacade.java:114)
+	at com.sun.proxy.$Proxy89.execute(Unknown Source)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.update(PreparedStatementHandler.java:46)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.update(RoutingStatementHandler.java:74)
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:50)
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
+	at org.apache.ibatis.executor.CachingExecutor.update(CachingExecutor.java:76)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:63)
+	at com.sun.proxy.$Proxy87.update(Unknown Source)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:198)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.insert(DefaultSqlSession.java:185)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:433)
+	at com.sun.proxy.$Proxy75.insert(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.insert(SqlSessionTemplate.java:278)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:57)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:59)
+	at com.sun.proxy.$Proxy76.insertSelective(Unknown Source)
+	at com.gwg.shiro.web.dao.impl.UserDaoImpl.addUser(UserDaoImpl.java:57)
+	at com.gwg.shiro.web.service.impl.UserServiceImpl.addUser(UserServiceImpl.java:36)
+	at com.gwg.shiro.web.controller.UserController.addUser(UserController.java:24)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:967)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:901)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:872)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:661)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:108)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+[ERROR] 2018-08-30 14:33:35.318 [http-nio-8080-exec-1] [org.apache.juli.logging.DirectJDKLog]181 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.dao.DuplicateKeyException: 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '333' for key 'unique_user_id'
+### The error may involve com.gwg.shiro.web.mapper.UserMapper.insertSelective-Inline
+### The error occurred while setting parameters
+### SQL: insert into tbl_user      ( user_id,                       username )       values ( ?,                       ? )
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '333' for key 'unique_user_id'
+; SQL []; Duplicate entry '333' for key 'unique_user_id'; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '333' for key 'unique_user_id'] with root cause 
+com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '333' for key 'unique_user_id'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+	at com.mysql.jdbc.Util.getInstance(Util.java:408)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:936)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3976)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3912)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2530)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2683)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2486)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1858)
+	at com.mysql.jdbc.PreparedStatement.execute(PreparedStatement.java:1197)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.apache.tomcat.jdbc.pool.StatementFacade$StatementProxy.invoke(StatementFacade.java:114)
+	at com.sun.proxy.$Proxy89.execute(Unknown Source)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.update(PreparedStatementHandler.java:46)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.update(RoutingStatementHandler.java:74)
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:50)
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
+	at org.apache.ibatis.executor.CachingExecutor.update(CachingExecutor.java:76)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:63)
+	at com.sun.proxy.$Proxy87.update(Unknown Source)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:198)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.insert(DefaultSqlSession.java:185)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:433)
+	at com.sun.proxy.$Proxy75.insert(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.insert(SqlSessionTemplate.java:278)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:57)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:59)
+	at com.sun.proxy.$Proxy76.insertSelective(Unknown Source)
+	at com.gwg.shiro.web.dao.impl.UserDaoImpl.addUser(UserDaoImpl.java:57)
+	at com.gwg.shiro.web.service.impl.UserServiceImpl.addUser(UserServiceImpl.java:36)
+	at com.gwg.shiro.web.controller.UserController.addUser(UserController.java:24)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:967)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:901)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:872)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:661)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:108)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+[ERROR] 2018-08-30 14:37:33.108 [http-nio-8080-exec-4] [org.apache.juli.logging.DirectJDKLog]181 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.dao.DuplicateKeyException: 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '333' for key 'unique_user_id'
+### The error may involve com.gwg.shiro.web.mapper.UserMapper.insertSelective-Inline
+### The error occurred while setting parameters
+### SQL: insert into tbl_user      ( user_id,                       username )       values ( ?,                       ? )
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '333' for key 'unique_user_id'
+; SQL []; Duplicate entry '333' for key 'unique_user_id'; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '333' for key 'unique_user_id'] with root cause 
+com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '333' for key 'unique_user_id'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+	at com.mysql.jdbc.Util.getInstance(Util.java:408)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:936)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3976)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3912)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2530)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2683)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2486)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1858)
+	at com.mysql.jdbc.PreparedStatement.execute(PreparedStatement.java:1197)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.apache.tomcat.jdbc.pool.StatementFacade$StatementProxy.invoke(StatementFacade.java:114)
+	at com.sun.proxy.$Proxy89.execute(Unknown Source)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.update(PreparedStatementHandler.java:46)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.update(RoutingStatementHandler.java:74)
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:50)
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
+	at org.apache.ibatis.executor.CachingExecutor.update(CachingExecutor.java:76)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:63)
+	at com.sun.proxy.$Proxy87.update(Unknown Source)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:198)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.insert(DefaultSqlSession.java:185)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:433)
+	at com.sun.proxy.$Proxy75.insert(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.insert(SqlSessionTemplate.java:278)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:57)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:59)
+	at com.sun.proxy.$Proxy76.insertSelective(Unknown Source)
+	at com.gwg.shiro.web.dao.impl.UserDaoImpl.addUser(UserDaoImpl.java:57)
+	at com.gwg.shiro.web.service.impl.UserServiceImpl.addUser(UserServiceImpl.java:36)
+	at com.gwg.shiro.web.controller.UserController.addUser(UserController.java:24)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:967)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:901)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:872)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:661)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:108)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
+[ERROR] 2018-08-30 14:37:33.108 [http-nio-8080-exec-4] [org.apache.juli.logging.DirectJDKLog]181 - Servlet.service() for servlet [dispatcherServlet] in context with path [] threw exception [Request processing failed; nested exception is org.springframework.dao.DuplicateKeyException: 
+### Error updating database.  Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '333' for key 'unique_user_id'
+### The error may involve com.gwg.shiro.web.mapper.UserMapper.insertSelective-Inline
+### The error occurred while setting parameters
+### SQL: insert into tbl_user      ( user_id,                       username )       values ( ?,                       ? )
+### Cause: com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '333' for key 'unique_user_id'
+; SQL []; Duplicate entry '333' for key 'unique_user_id'; nested exception is com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '333' for key 'unique_user_id'] with root cause 
+com.mysql.jdbc.exceptions.jdbc4.MySQLIntegrityConstraintViolationException: Duplicate entry '333' for key 'unique_user_id'
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:422)
+	at com.mysql.jdbc.Util.handleNewInstance(Util.java:425)
+	at com.mysql.jdbc.Util.getInstance(Util.java:408)
+	at com.mysql.jdbc.SQLError.createSQLException(SQLError.java:936)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3976)
+	at com.mysql.jdbc.MysqlIO.checkErrorPacket(MysqlIO.java:3912)
+	at com.mysql.jdbc.MysqlIO.sendCommand(MysqlIO.java:2530)
+	at com.mysql.jdbc.MysqlIO.sqlQueryDirect(MysqlIO.java:2683)
+	at com.mysql.jdbc.ConnectionImpl.execSQL(ConnectionImpl.java:2486)
+	at com.mysql.jdbc.PreparedStatement.executeInternal(PreparedStatement.java:1858)
+	at com.mysql.jdbc.PreparedStatement.execute(PreparedStatement.java:1197)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.apache.tomcat.jdbc.pool.StatementFacade$StatementProxy.invoke(StatementFacade.java:114)
+	at com.sun.proxy.$Proxy89.execute(Unknown Source)
+	at org.apache.ibatis.executor.statement.PreparedStatementHandler.update(PreparedStatementHandler.java:46)
+	at org.apache.ibatis.executor.statement.RoutingStatementHandler.update(RoutingStatementHandler.java:74)
+	at org.apache.ibatis.executor.SimpleExecutor.doUpdate(SimpleExecutor.java:50)
+	at org.apache.ibatis.executor.BaseExecutor.update(BaseExecutor.java:117)
+	at org.apache.ibatis.executor.CachingExecutor.update(CachingExecutor.java:76)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.apache.ibatis.plugin.Plugin.invoke(Plugin.java:63)
+	at com.sun.proxy.$Proxy87.update(Unknown Source)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.update(DefaultSqlSession.java:198)
+	at org.apache.ibatis.session.defaults.DefaultSqlSession.insert(DefaultSqlSession.java:185)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.mybatis.spring.SqlSessionTemplate$SqlSessionInterceptor.invoke(SqlSessionTemplate.java:433)
+	at com.sun.proxy.$Proxy75.insert(Unknown Source)
+	at org.mybatis.spring.SqlSessionTemplate.insert(SqlSessionTemplate.java:278)
+	at org.apache.ibatis.binding.MapperMethod.execute(MapperMethod.java:57)
+	at org.apache.ibatis.binding.MapperProxy.invoke(MapperProxy.java:59)
+	at com.sun.proxy.$Proxy76.insertSelective(Unknown Source)
+	at com.gwg.shiro.web.dao.impl.UserDaoImpl.addUser(UserDaoImpl.java:57)
+	at com.gwg.shiro.web.service.impl.UserServiceImpl.addUser(UserServiceImpl.java:36)
+	at com.gwg.shiro.web.controller.UserController.addUser(UserController.java:24)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:497)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:205)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:133)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:97)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:827)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:738)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:967)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:901)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:970)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:872)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:661)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:846)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:742)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:231)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:52)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:99)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HttpPutFormContentFilter.doFilterInternal(HttpPutFormContentFilter.java:108)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.HiddenHttpMethodFilter.doFilterInternal(HiddenHttpMethodFilter.java:81)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:197)
+	at org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:107)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:193)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:166)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:199)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:96)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:478)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:140)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:81)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:87)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:342)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:803)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:66)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:868)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1459)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:745)
